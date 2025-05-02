@@ -1,7 +1,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/GuptaVardan/LUD-Numerical-Methods.git
-   cd LU-Decomposition-App
+   cd LUD-Numerical-Methods
 
 2. **Install packages**
    ```bash
